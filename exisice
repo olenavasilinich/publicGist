@@ -1,0 +1,9 @@
+function mayBuyBitcoin (rate, cash) {
+
+let numberOfBitcoin;
+
+numberOfBitcoin = cash / rate;
+
+
+return numberOfBitcoin;
+}
